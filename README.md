@@ -1,2 +1,2 @@
 # Oracle-SQL
-This repository will contain all the sql commands and their executions via examples
+This repository contains all the sql commands and their executions on Oracle Express Database
